@@ -24,3 +24,7 @@ type
 :vsplit to split screens
 :colorcheme nightfly // to set colorchemes.
 
+
+-->
+press  tab to autocomplete in down ward direction and shift tab to upward direction.
+
