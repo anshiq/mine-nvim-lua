@@ -1,6 +1,6 @@
 # mine-nvim-lue
 my nvim configuration in lua.
-
+install packages -> gcc clang and zig 
 press jk to fast enter in normal mode.
 // options file is present in lua/anshik/options
 checkout there the options set for nvim
