@@ -1,6 +1,9 @@
 # mine-nvim-lue
 my nvim configuration in lua.
-install packages -> gcc, clang, zig, pip, build-essentials/base-devel and npm
+install packages -> gcc, clang, zig, pip,xclip, build-essentials/base-devel and npm
+all intelisense files are stored in .local/share/nvim
+all cache files are in .cache/nvim
+main config files are in .config/nvim
 press jk to fast enter in normal mode.
 // options file is present in lua/anshik/options
 checkout there the options set for nvim
