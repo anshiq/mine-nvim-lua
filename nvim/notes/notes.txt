@@ -28,3 +28,9 @@ type
 -->
 press  tab to autocomplete in down ward direction and shift tab to upward direction.
 
+--> 
+press leader c to close the tab.
+ctrl w j,k,l,h  to shift b/w split screens.
+
+
+
